@@ -16,7 +16,7 @@ header {
 }
 nav {
     display: flex;
-    justify-content: center; /* Aligns icons to the left */
+    justify-content: left; /* Aligns icons to the left */
     gap: 20px;
     overflow-x: auto; /* Enables horizontal scrolling */
     white-space: nowrap;
